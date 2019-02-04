@@ -7,9 +7,10 @@ class Dog
   @@all = []
   
   def initialize(name)
-    binding.pry
+    
     @name = "Pluto"
     @@all << self
+    binding.pry
   end
   
   def self.clear_all 
