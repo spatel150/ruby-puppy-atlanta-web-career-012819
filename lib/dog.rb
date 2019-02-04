@@ -2,7 +2,7 @@ class Dog
   
   @@all = []
   
-  def 
+  def clear_all
     
   end   
 end 
